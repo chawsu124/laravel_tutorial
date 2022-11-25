@@ -8,6 +8,7 @@
 </head>
 <body>
     <h2>Session Tutorial by Waifer Kolar</h2>
+    <h3>Session Lessons</h3>
     <h3>Welcome</h3>
     <!-- setSession -->
     @if(session('status'))
