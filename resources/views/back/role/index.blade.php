@@ -5,7 +5,7 @@
 @section('content')
 
     <div class="container col-md-8 col-md-offset-2 mt-5">
-        <h3 class="text-center">Roles</h3>
+        <h3 class="text-center">Roles Table</h3>
         <table class="table table-bordered table-hover mt-3">
             <thead>
                 <tr>
